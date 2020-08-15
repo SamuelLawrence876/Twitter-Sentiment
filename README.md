@@ -6,7 +6,7 @@
 - [x] Analyze data
 - [x] submit findings
 - [x] EDA analysis
-- [x] compare price movement to buy/sell positions
+- [x] compare stock price movement to buy/sell positions
 
 ## Project Intro
 In an attempt to understand the voice of investors, this project seeks to understand the contextual language used on specific stocks. (Tesla in this example) 
